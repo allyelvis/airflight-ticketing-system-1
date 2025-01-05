@@ -157,7 +157,7 @@ sudo apt install certbot python3-certbot-nginx
 2. Configure Nginx for Reverse Proxy
 Create a new Nginx configuration file:
 
-sudo nano /etc/nginx/sites-available/airflight-ticketing
+sudo nano /etc/nginx/sites-available/airflight-ticketing-1
 
 Paste the following configuration:
 
@@ -175,7 +175,7 @@ server {
 
 Enable the site:
 
-sudo ln -s /etc/nginx/sites-available/airflight-ticketing /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/airflight-ticketing-1/etc/nginx/sites-enabled/
 sudo nginx -t
 sudo systemctl restart nginx
 
