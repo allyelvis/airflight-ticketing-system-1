@@ -7,7 +7,7 @@ Airflight Ticketing System
 
 Version: 1.0.0
 Author: Allyelvis
-License: MIT
+License: custom permissive license.
 
 Table of Contents
 
@@ -271,7 +271,7 @@ Contributions are welcome!
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the custom permissive license..
 See the LICENSE file for more details.
 
 
