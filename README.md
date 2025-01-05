@@ -1,9 +1,4 @@
-Here's a structured README.md file for the Airflight Ticketing System project. This document provides an overview, setup instructions, and deployment guidelines.
-
-
----
-
-Airflight Ticketing System
+#Airflight Ticketing System
 
 Version: 1.0.0
 Author: Allyelvis
