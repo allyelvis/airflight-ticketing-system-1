@@ -1,0 +1,19 @@
+{
+  "name": "airflight-ticketing-system",
+  "version": "1.0.0",
+  "description": "Airflight Ticketing System",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "dotenv": "^8.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
